@@ -1,2 +1,5 @@
-# Tutorial-Bot
-This is the bot we're creating in the video series, each branch is an episode number.
+# AC Bot
+used Anidiot's Tutorial node.js 
+Credited york
+
+Confederation Bot
