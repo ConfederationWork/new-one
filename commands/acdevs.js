@@ -8,12 +8,14 @@ exports.run = (bot, message, args) => {
   .setThumbnail(bot.avatarURL)
   .setAuthor(bot.user.username, bot.user.avatarURL)
   .addField('Arvorious','AC Leader')
-  .addField('lesterleal','CCD Developer')
-  .addField('Tho_rn','CCD Developer')
-  .addField('Ninqax','CCD Developer|HR')
-  .addField('AntonioWeiss','CCD Developer')
+  .addField('lesterleal','CCD Team')
+  .addField('Tho_rn','CCD Team')
+  .addField('Ninqax','CCD Team|HR')
+  .addField('AntonioWeiss','CCD Team')
   .addField('Fuzar','CCD Developer')
-  .addField('TotallyNotPipster','CCD Developer')
+  .addField('TotallyNotPipster','CCD Team')
+  .addField('Anna','CCD Team|HR')
+  .addField('5567miller','CCD Team')
 
 
 
